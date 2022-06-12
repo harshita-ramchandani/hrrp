@@ -60,7 +60,7 @@ line-height: 50px;
 }
 .hero {
     height: 70vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('images/19.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/images/19.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -86,7 +86,7 @@ line-height: 50px;
 
 .hero_journey {
     height: 70vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url('images/2.jpeg');
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url('/images/2.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
@@ -95,7 +95,7 @@ line-height: 50px;
 }
 .hero_new {
     height: 70vh;
-    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/DJI_0118.jpg');
+    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/DJI_0118.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -104,7 +104,7 @@ line-height: 50px;
 }
 .hero_aim {
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('images/3.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/images/3.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -402,7 +402,7 @@ line-height: 50px;
     background-color:#33353d
   }
   #linkedin{
-    background-image: url(images/linkedin.png);
+    background-image: url(/images/linkedin.png);
     background-position: center;
     background-repeat: no-repeat;
     width: 40px;

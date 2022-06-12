@@ -9,7 +9,7 @@ h1{
 }
 .hero {
     height: 70vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/18.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/18.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -254,7 +254,7 @@ line-height: 50px;
   background-color:#33353d
 }
 #linkedin{
-  background-image: url(images/linkedin.png);
+  background-image: url(/images/linkedin.png);
   background-position: center;
   background-repeat: no-repeat;
   width: 40px;
