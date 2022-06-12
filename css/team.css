@@ -49,7 +49,7 @@ body {
   }
 .hero {
     height: 80vh;
-    background: url('/images/4.jpg');
+    background: url('../images/4.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -233,7 +233,7 @@ body {
   background-color:#33353d
 }
 #linkedin{
-  background-image: url(/images/linkedin.png);
+  background-image: url(../images/linkedin.png);
   background-position: center;
   background-repeat: no-repeat;
   width: 40px;
