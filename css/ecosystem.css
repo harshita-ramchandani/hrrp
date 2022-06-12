@@ -19,7 +19,7 @@ h1{
 }
 .hero_faculty {
   height: 70vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(8.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/8.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -29,7 +29,7 @@ h1{
 }
 .hero_utilities {
   height: 70vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(9.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/9.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -38,7 +38,7 @@ h1{
 }
 .hero_equipment {
   height: 70vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(11.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/11.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
